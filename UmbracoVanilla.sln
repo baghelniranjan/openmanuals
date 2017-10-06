@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoVanilla", "UmbracoVanilla\UmbracoVanilla.csproj", "{96C8F083-ED2C-4988-BF61-1BD5D0184386}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoVanilla", "UmbracoVanilla.csproj", "{96C8F083-ED2C-4988-BF61-1BD5D0184386}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
